@@ -1,0 +1,39 @@
+.title
+{
+    color: black;
+    font-family: 'Raleway';
+    background-color: #cfcfcf7e;
+    font-weight: 700;
+    font-size:65px;
+
+}
+
+.cuerpoIndex
+{
+    background-image: url(../img/home.jpg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+.name {
+    color: #272727;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size:45px;
+    letter-spacing:15%;
+    margin-left: 2%;
+}
+
+.navBar {
+    font-weight: 400;
+    font-family: 'Raleway';
+    text-decoration: none;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #272727;
+}
