@@ -7,9 +7,15 @@ a{
     font-weight: 400;
     font-family: 'Raleway';
     margin-top: 3%;
+    position: absolute;
+    left: 80%;
 }
 
-.social{}
+.social{
+    position: absolute;
+    margin-top: 5%;
+    left: 90%;
+}
 
 .title
 {
@@ -17,6 +23,7 @@ a{
     font-family: 'Raleway';
     font-weight: bold;
     font-size:45px;
+    margin-top: 7%;
 
 }
 
@@ -31,4 +38,10 @@ a{
     font-family: 'Open sans';
     font-weight: 300;
     color: rgb(0, 201, 124);
+}
+
+.info {
+    font-family: 'Open sans';
+    font-weight: 300;
+    margin-bottom: 1%;
 }
