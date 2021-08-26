@@ -2,24 +2,65 @@
 {
     color: black;
     font-family: 'Raleway';
-    font-weight: bold;
+    font-weight:bolder;
     font-size:45px;
     margin-top: 7%;
 }
 
-.cuerpo
+.portadaalbum
 {
-    background-image: url(../img/music-top.jpg);
-    background-size: 70%;
-    background-repeat: repeat-x;
-    background-position: top;
+    width: 640px;
+    height: 310px;
+}
+
+a{
+    text-decoration: none;
 }
 
 .navBar {
     font-weight: 400;
     font-family: 'Raleway';
-    margin-top: 3%;
-    position:right;
+    margin-top: 5%;
+    position: absolute;
     left: 80%;
-    display: block;
+    background-color: rgba(216, 204, 204, 0.606);
 }
+
+.top{
+    color: rgb(119, 114, 114);
+} 
+
+.cuerpo
+{
+    background-image: url(../img/music-top.jpg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#directlinks{
+    font-family: raleway;
+}
+
+.album{
+    font-family: raleway;
+}
+
+ol{
+    font-family: roboto;
+}
+
+.video{
+    font-family: raleway;
+}
+
+p{
+    font-family: raleway;
+}
+
+.link{
+    color: rgb(131, 125, 125);
+    list-style: none;
+    text-decoration: none;
+}
+
