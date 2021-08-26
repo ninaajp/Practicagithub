@@ -1,0 +1,25 @@
+.titulo
+{
+    color: black;
+    font-family: 'Raleway';
+    font-weight: bold;
+    font-size:45px;
+    margin-top: 7%;
+}
+
+.cuerpo
+{
+    background-image: url(../img/music-top.jpg);
+    background-size: 70%;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.navBar {
+    font-weight: 400;
+    font-family: 'Raleway';
+    margin-top: 3%;
+    position:right;
+    left: 80%;
+    display: block;
+}
